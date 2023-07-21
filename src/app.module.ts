@@ -11,3 +11,4 @@ import { JogadoresModule } from './jogadores/jogadores.module';
   providers: [],
 })
 export class AppModule {}
+
